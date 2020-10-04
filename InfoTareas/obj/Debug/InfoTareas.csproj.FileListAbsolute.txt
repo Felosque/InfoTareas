@@ -1,0 +1,13 @@
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\bin\Debug\InfoTareas.exe.config
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\bin\Debug\InfoTareas.exe
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\bin\Debug\InfoTareas.pdb
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.InfoTareas.resources
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.Properties.Resources.resources
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.exe
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.pdb
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\bin\Debug\es-419\InfoTareas.resources.dll
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\InfoTareas.InfoTareas.es-419.resources
+C:\Users\felip\source\repos\InfoTareas\InfoTareas\obj\Debug\es-419\InfoTareas.resources.dll
