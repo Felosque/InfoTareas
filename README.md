@@ -6,3 +6,7 @@ Se plantea una vista principal simple para que la accesibilidad de la aplicació
 <p align='center'>
     <img src="img/vista-principal.png" alt="drawing"/>
 </p>
+
+# Creditos
+ - Felipe Londoño (Desarrollador)
+ - flaticon.es (Plataforma de imagenes libres)
