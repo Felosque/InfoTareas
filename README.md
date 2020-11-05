@@ -1,4 +1,4 @@
-# Sobre la aplicación
+# Sobre la aplicación (En construcción)
 InfoTareas se crea con la necesidad de una aplicación personal que notifique las tareas pendientes que hay en el transcurso de la semana. Para ello se plantea las funcionalidades de separar las tareas en cursos y tiempo de entrega.
 
 # Vista principal
